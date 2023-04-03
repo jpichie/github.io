@@ -937,7 +937,6 @@ section {
   margin-bottom: 30px;
 }
 .portfolio #portfolio-flters {
-  padding: 0;
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
@@ -1201,7 +1200,6 @@ section {
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.1);
 }
 .pricing .box h3 {
-  font-weight: 400;
   padding: 15px;
   font-size: 18px;
   text-transform: uppercase;
@@ -1249,9 +1247,7 @@ section {
   padding: 10px 40px;
   border-radius: 4px;
   color: #2487ce;
-  transition: none;
   font-size: 14px;
-  font-weight: 400;
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   transition: 0.3s;
@@ -1433,7 +1429,6 @@ section {
   animation: animate-loading 1s linear infinite;
 }
 .contact .php-email-form input, .contact .php-email-form textarea {
-  border-radius: 0;
   box-shadow: none;
   font-size: 14px;
   border-radius: 4px;
@@ -1621,7 +1616,6 @@ section {
   right: -2px;
   bottom: -1px;
   border: 0;
-  background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
   background: #2487ce;
